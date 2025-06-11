@@ -1,5 +1,7 @@
 ## Hi there 👋
-![header] (https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=10&amp;height=200&amp;text=JJINUENG's%20GITHUB&amp;fontSize=50&amp;animation=twinkling&amp;fontAlign=68&amp;fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&text=KMJ's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+
+
 <!--
 **kmj5004/kmj5004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
