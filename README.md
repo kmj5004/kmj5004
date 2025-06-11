@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&text=KMJ's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![JJINUENG's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmj5004)
 
 
 <!--
