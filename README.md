@@ -1,5 +1,29 @@
+<!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=200&text=KMJ's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
-![JJINUENG's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmj5004)
+
+<!-- 포트폴리오 소개 -->
+## 🖼️ Portfolio
+<img src="https://your-image-url.com/your-portfolio-image.png" width="600" alt="portfolio image"/>
+
+<!-- 깃허브 통계 -->
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kmj5004&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmj5004&layout=compact&theme=tokyonight" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+<!-- 커밋 스트릭 -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kmj5004&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 
 <!--
