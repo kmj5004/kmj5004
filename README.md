@@ -4,7 +4,7 @@
 <!-- 포트폴리오 소개 -->
 ## 🖼️ Portfolio
 <a href="https://www.notion.so/1c59c2e079428032babcdcdfc79c3878?source=copy_link" target="_blank">
-  <img src="https://your-image-url.com/your-portfolio-image.png" width="600" alt="portfolio image"/>
+  <img src="Notion Icon.png" width="100" alt="portfolio image"/>
 </a>
 
 <!-- 깃허브 통계 -->
